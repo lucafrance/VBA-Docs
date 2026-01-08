@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
-**Object**
+**[FullSeriesCollection](Excel.fullseriescollection.md)**
 
 
 ## Remarks
